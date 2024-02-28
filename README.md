@@ -35,7 +35,7 @@ El análisis de los datos revela varias conclusiones importantes sobre los sinie
 
 2. En los siniestros viales que resultaron en lesiones, la mayoría también involucra a una sola víctima. Sin embargo, a diferencia de los homicidios, hay una mayor diversidad en el número de víctimas en los casos de lesiones, como así también el día en que ocurren los siniestros. Pero en ambos casos, veremos un alto porcentaje de masculinos en los siniestros viales, veamos.
 
-[!Distribución de fallecimientos](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20fallecimientos.png)
+![Distribución de fallecimientos](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20fallecimientos.png)
 
 3. La distribución geográfica de los siniestros viales muestra que estos ocurren en toda la CABA, con cada punto en el gráfico representando un siniestro vial.
 
@@ -58,7 +58,7 @@ A continuación mostraré algunos comportamientos a lo que hace a la siniestrali
 
 ** Distribución de edades gráfico.
 
-[!Distribución de edades](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20edades%20en%20homicidios.png)
+![Distribución de edades](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20edades%20en%20homicidios.png)
 
 Conclusión:
 Interpretación

@@ -1,0 +1,15 @@
+# Datasets Originales
+Datasets Originales\archivo_shapefile
+Datasets Originales/homicidios.xlsx
+Datasets Originales/lesiones.xlsx
+Datasets Originales/Víctimas homicidios.xlsx
+Datasets Originales/Víctimas lesiones.xlsx
+Datasets Originales\c2022_caba_est_c1_1 normalizado.xlsx
+Datasets Originales/c2022_caba_est_c1_1.xlsx
+# Df procesados
+Df procesados en ETL/homicidios.csv
+Df procesados en ETL/lesiones.csv
+Df procesados/siniestros_viales_procesado.csv
+Df procesados\siniestros.csv
+Df procesados\siniestros_viales_procesado.csv
+

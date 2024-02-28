@@ -33,9 +33,9 @@ El análisis de los datos revela varias conclusiones importantes sobre los sinie
 
 1. La mayoría de los siniestros viales que resultaron en homicidios involucran a una sola víctima, con muy pocos casos que involucran a dos víctimas.
 
-2. En los siniestros viales que resultaron en lesiones, la mayoría también involucra a una sola víctima. Sin embargo, a diferencia de los homicidios, hay una mayor diversidad en el número de víctimas en los casos de lesiones.
+2. En los siniestros viales que resultaron en lesiones, la mayoría también involucra a una sola víctima. Sin embargo, a diferencia de los homicidios, hay una mayor diversidad en el número de víctimas en los casos de lesiones, como así también el día en que ocurren los siniestros. Pero en ambos casos, veremos un alto porcentaje de masculinos en los siniestros viales, veamos.
 
-
+[!Distribución de fallecimientos](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20fallecimientos.png)
 
 3. La distribución geográfica de los siniestros viales muestra que estos ocurren en toda la CABA, con cada punto en el gráfico representando un siniestro vial.
 
@@ -58,7 +58,7 @@ A continuación mostraré algunos comportamientos a lo que hace a la siniestrali
 
 ** Distribución de edades gráfico.
 
-
+[!Distribución de edades](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3cfa5fbf348637e0bb79617b7d46d46c49e22a1d/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20edades%20en%20homicidios.png)
 
 Conclusión:
 Interpretación
@@ -74,7 +74,6 @@ Se observa un segundo pico, aunque menor, en el grupo de edad de 50 a 59 años y
 En cambio en las lesiones, vemos que la frecuencia de lesiones es mayor en el grupo de edad de 0 a 9 años, disminuye a medida que aumenta la edad.
 
 Podríamos cerrar diciendo que la frecuencia de lesiones en el grupo de edad de 20 a 29 años es similar a la frecuencia de homicidios en el mismo grupo de edad.
-
 
 Estos resultados proporcionan una visión clara de la gravedad y el alcance de los siniestros viales en términos del número de víctimas involucradas. Los hallazgos pueden ser útiles para las autoridades y los planificadores de la ciudad para crear campañas de concientización y planificar intervenciones de seguridad vial.
 

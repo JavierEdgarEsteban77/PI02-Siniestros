@@ -1,4 +1,4 @@
-![Logo.png](https://github.com/JavierEdgarEsteban77/PI02/blob/7df46b2900c4000f56edb63e079ad3b8cdcf5115/Archivos%20ETL%20y%20EDA/Logo%20Siniestros.png)
+![Logo.png](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/b3001ec2f90c74445aa6bf44b887c01493b46aab/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Logo%20Siniestros%20Rezise.png)
 
 
 # Proyecto de Inteligencia de Datos y Análisis de Siniestros Viales en la Ciudad Autónoma de Buenos Aires (CABA)

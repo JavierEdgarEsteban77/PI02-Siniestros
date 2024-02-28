@@ -45,6 +45,30 @@ El análisis de los datos revela varias conclusiones importantes sobre los sinie
 
 7. El 76% de las víctimas son masculinas, mientras que el 24% restante son femeninas.
 
+Adjunto links de presentación en novyPro de mi trabajo en Power BI cuyo link es: https://www.novypro.com/project/siniestros-viales-1
+
+A continuación mostraré algunos comportamientos a lo que hace a la siniestralidad con gráficos y sus explicaciones.
+
+** Distribución de edades gráfico.
+
+
+
+Conclusión:
+Interpretación
+
+Se trabajo sobre los tópicos de homicidios y lesiones ya que en el ETL fucioné ambos dataset, por ende el gráfico muestra la distribución de las víctimas de homicidios y lesiones en siniestros viales en CABA por edad.
+
+Observamos una diferencia en la distribución de las edades para ambos tipos de víctimas.
+
+En el caso de homicidios, la frecuencia de homicidios es mayor en el grupo de edad de 20 a 29 años.
+
+Se observa un segundo pico, aunque menor, en el grupo de edad de 50 a 59 años y la frecuencia de homicidios es menor en los grupos de edad más jóvenes y en los adultos mayores.
+
+En cambio en las lesiones, vemos que la frecuencia de lesiones es mayor en el grupo de edad de 0 a 9 años, disminuye a medida que aumenta la edad.
+
+Podríamos cerrar diciendo que la frecuencia de lesiones en el grupo de edad de 20 a 29 años es similar a la frecuencia de homicidios en el mismo grupo de edad.
+
+
 Estos resultados proporcionan una visión clara de la gravedad y el alcance de los siniestros viales en términos del número de víctimas involucradas. Los hallazgos pueden ser útiles para las autoridades y los planificadores de la ciudad para crear campañas de concientización y planificar intervenciones de seguridad vial.
 
 ## Librerías y paquetes utilizados

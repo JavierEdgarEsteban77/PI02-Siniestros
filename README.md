@@ -17,7 +17,7 @@ En el archivo `EDA.ipynb`, se realiza un análisis exploratorio de los datos. Se
 
 Este repositorio utiliza Git LFS (Large File Storage) para gestionar archivos grandes, como el archivo 2_EDA.ipynb. Asegúrese de seguir estos pasos para visualizar y trabajar con estos archivos correctamente.
 
-Pasos para Visualizar EDA.ipynb:
+## Pasos para Visualizar EDA.ipynb:
 
 Clone el repositorio: git clone https://github.com/JavierEdgarEsteban77/PI02-Siniestros.git
 
@@ -35,15 +35,22 @@ El análisis de los datos revela varias conclusiones importantes sobre los sinie
 
 2. En los siniestros viales que resultaron en lesiones, la mayoría también involucra a una sola víctima. Sin embargo, a diferencia de los homicidios, hay una mayor diversidad en el número de víctimas en los casos de lesiones.
 
+
+
 3. La distribución geográfica de los siniestros viales muestra que estos ocurren en toda la CABA, con cada punto en el gráfico representando un siniestro vial.
 
 4. Los siniestros viales parecen ser más frecuentes durante ciertos meses como febrero, noviembre y diciembre.
 
-5. La distribución de siniestros viales es bastante uniforme a lo largo de los días de la semana, lo que sugiere que no hay un día particularmente más peligroso que otro en términos de siniestros viales.
+5. La distribución de siniestros viales es bastante uniforme a lo largo de los días de la semana, lo que sugiere que no hay un día particularmente más peligroso que otro en términos de siniestros viales. Pero haremos una salvedad que el viernes hay un gran aumento de siniestralidad. Una teoría es que el viernes la gente se anima a salir en los vehículos particulares para despues ir a distenderse o bien son días que ya hay movida nocturna desde el jeuves, se incrementa la cantidad de personas circulando. Lo podremos visualizar con el gráfico de distribución de días.
 
 6. Las horas más peligrosas del día, donde se registran más siniestros viales, son las que se muestran en el gráfico de las "Top 5 Horas con Más Siniestros Viales".
 
-7. El 76% de las víctimas son masculinas, mientras que el 24% restante son femeninas.
+![Distribución de días](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3bd5d1a90d9a597339bc993d94fd302c139d848f/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuci%C3%B3n%20de%20d%C3%ADas.png)
+
+
+7. El 76% de las víctimas son masculinas, mientras que el 24% restante son femeninas. Es un tema sensible a la hora de cuantificar, pero la tendencia se mantiene en alza. Veamos
+
+![Distribución de sexo](https://github.com/JavierEdgarEsteban77/PI02-Siniestros/blob/3bd5d1a90d9a597339bc993d94fd302c139d848f/Archivos%20ETL%20EDA%20KPIs/Im%C3%A1genes/Distribuciones.png)
 
 Adjunto links de presentación en novyPro de mi trabajo en Power BI cuyo link es: https://www.novypro.com/project/siniestros-viales-1
 
